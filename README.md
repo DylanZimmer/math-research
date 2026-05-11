@@ -4,6 +4,6 @@ https://github.com/DylanZimmer/Ramsey
 
 Knot Invariant Pipeline
 Automated workflow integrating knot databases created with SageMath to compute and store knot invariants.
-frontend: (https://github.com/DylanZimmer/KnotResearch
+frontend: https://github.com/DylanZimmer/KnotResearch
 backend: https://github.com/DylanZimmer/Knots-Backend
 Hosted at knotresearch.netlify.app
